@@ -1,0 +1,1 @@
+Implemente um sistema de análise de logs onde múltiplos threads leem e classificam registros de um log por categoria (erro, info, warning). Os resultados são agrupados em estruturas separadas.
