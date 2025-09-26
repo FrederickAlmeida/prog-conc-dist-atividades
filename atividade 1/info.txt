@@ -1,0 +1,320 @@
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Configurações carregadas.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[INFO] Configurações carregadas.
+[INFO] Usuário logou com sucesso.
+[INFO] Usuário logou com sucesso.

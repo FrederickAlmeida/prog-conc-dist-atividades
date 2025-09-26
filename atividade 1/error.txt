@@ -1,0 +1,340 @@
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Estouro de memória detectado.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.

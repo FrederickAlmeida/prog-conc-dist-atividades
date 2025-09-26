@@ -49,6 +49,23 @@ func readFileRange(filePath string, startLine, endLine int, errCh chan string, w
 	}
 }
 
+func writeToFile(fileName string, ch <-chan string, wg *sync.WaitGroup) {
+	defer wg.Done()
+
+	file, err := os.Create(fileName)
+	if err != nil {
+		fmt.Printf("Error creating file %s: %v\n", fileName, err)
+		return
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+	for msg := range ch {
+		writer.WriteString(msg + "\n")
+	}
+	writer.Flush()
+}
+
 func main() {
 	errCh := make(chan string, 10)
 	warnCh := make(chan string, 10)
@@ -57,7 +74,13 @@ func main() {
 	numLines := 1000
 	linesPerThread := numLines / 4
 
-	var wg sync.WaitGroup
+	var readWg sync.WaitGroup
+	var writeWg sync.WaitGroup
+
+	writeWg.Add(3)
+	go writeToFile("error.txt", errCh, &writeWg)
+	go writeToFile("warning.txt", warnCh, &writeWg)
+	go writeToFile("info.txt", infoCh, &writeWg)
 
 	for i := 0; i < 4; i++ {
 		startLine := i * linesPerThread
@@ -70,10 +93,19 @@ func main() {
 
 		fmt.Printf("Iniciando thread %d: linhas %d até %d\n", i+1, startLine, endLine-1)
 
-		wg.Add(1)
-		go readFileRange("logs.txt", startLine, endLine, errCh, warnCh, infoCh, &wg)
+		readWg.Add(1)
+		go readFileRange("logs.txt", startLine, endLine, errCh, warnCh, infoCh, &readWg)
 	}
 
 	// Aguarda todas as goroutines completarem
-	wg.Wait()
+	readWg.Wait()
+
+	// Fecha os canais após a leitura
+
+	close(errCh)
+	close(warnCh)
+	close(infoCh)
+
+	// Aguarda as escritas terminarem
+	writeWg.Wait()
 }

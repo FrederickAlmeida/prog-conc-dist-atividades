@@ -1,0 +1,340 @@
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[WARNING] Conexão instável detectada.
+[WARNING] Uso de CPU elevado.
+[WARNING] Conexão instável detectada.
