@@ -13,7 +13,7 @@ func readFileRange(filePath string, startLine, endLine int, errCh chan string, w
 
 	file, err := os.Open(filePath)
 	if err != nil {
-		fmt.Printf("Error opening file: %v\n", err)
+		fmt.Printf("Erro abrindo arquivo: %v\n", err)
 		return
 	}
 	defer file.Close()
@@ -29,14 +29,15 @@ func readFileRange(filePath string, startLine, endLine int, errCh chan string, w
 		if lineNum >= startLine {
 			linha := sc.Text()
 			fmt.Printf("Lines %d-%d: %s\n", startLine, endLine-1, linha)
-
-			if strings.Contains(linha, "ERROR") {
+			
+			formattedString := strings.ToUpper(strings.TrimSpace(linha))
+			
+			switch {
+			case strings.HasPrefix(formattedString, "[ERROR]"):
 				errCh <- linha
-			}
-			if strings.Contains(linha, "WARNING") {
+			case strings.HasPrefix(formattedString, "[WARNING]"):
 				warnCh <- linha
-			}
-			if strings.Contains(linha, "INFO") {
+			case strings.HasPrefix(formattedString, "[INFO]"):
 				infoCh <- linha
 			}
 		}
@@ -44,7 +45,7 @@ func readFileRange(filePath string, startLine, endLine int, errCh chan string, w
 	}
 
 	if err := sc.Err(); err != nil {
-		fmt.Printf("Error reading file: %v\n", err)
+		fmt.Printf("Erro lendo arquivo: %v\n", err)
 		return
 	}
 }
@@ -54,7 +55,7 @@ func writeToFile(fileName string, ch <-chan string, wg *sync.WaitGroup) {
 
 	file, err := os.Create(fileName)
 	if err != nil {
-		fmt.Printf("Error creating file %s: %v\n", fileName, err)
+		fmt.Printf("Erro criando arquivo %s: %v\n", fileName, err)
 		return
 	}
 	defer file.Close()
