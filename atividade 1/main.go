@@ -101,11 +101,11 @@ func main() {
 	readWg.Wait()
 
 	// Fecha os canais após a leitura
-
 	close(errCh)
 	close(warnCh)
 	close(infoCh)
 
 	// Aguarda as escritas terminarem
 	writeWg.Wait()
+	fmt.Printf("Programa concluído.")
 }
