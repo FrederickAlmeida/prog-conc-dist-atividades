@@ -1,0 +1,1000 @@
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
+[INFO] Serviço iniciado corretamente.
+[INFO] Serviço iniciado corretamente.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Usuário logou com sucesso.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Processamento finalizado sem erros.
+[INFO] Backup concluído.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[WARNING] Versão de software desatualizada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[WARNING] Tempo de resposta acima do esperado.
+[INFO] Configurações carregadas.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Falha ao conectar no banco de dados.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Estouro de memória detectado.
+[ERROR] Estouro de memória detectado.
+[WARNING] Conexão instável detectada.
+[WARNING] Espaço em disco baixo.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Backup concluído.
+[INFO] Configurações carregadas.
+[WARNING] Conexão instável detectada.
+[INFO] Configurações carregadas.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[WARNING] Conexão instável detectada.
+[WARNING] Conexão instável detectada.
+[ERROR] Arquivo de configuração não encontrado.
+[ERROR] Estouro de memória detectado.
+[INFO] Serviço iniciado corretamente.
+[WARNING] Espaço em disco baixo.
+[INFO] Usuário logou com sucesso.
+[WARNING] Uso de CPU elevado.
+[WARNING] Espaço em disco baixo.
+[WARNING] Uso de CPU elevado.
+[INFO] Serviço iniciado corretamente.
+[ERROR] Conexão resetada pelo peer.
+[INFO] Processamento finalizado sem erros.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Versão de software desatualizada.
+[INFO] Processamento finalizado sem erros.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Estouro de memória detectado.
+[WARNING] Tempo de resposta acima do esperado.
+[WARNING] Conexão instável detectada.
+[ERROR] Falha ao conectar no banco de dados.
+[ERROR] Permissão negada ao acessar recurso.
+[ERROR] Permissão negada ao acessar recurso.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Espaço em disco baixo.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Processamento finalizado sem erros.
+[WARNING] Conexão instável detectada.
+[ERROR] Conexão resetada pelo peer.
+[ERROR] Arquivo de configuração não encontrado.
+[INFO] Backup concluído.
+[INFO] Backup concluído.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Uso de CPU elevado.
+[INFO] Usuário logou com sucesso.
+[INFO] Configurações carregadas.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[ERROR] Permissão negada ao acessar recurso.
+[WARNING] Espaço em disco baixo.
+[ERROR] Conexão resetada pelo peer.
+[WARNING] Uso de CPU elevado.
+[INFO] Backup concluído.
+[ERROR] Estouro de memória detectado.
+[INFO] Usuário logou com sucesso.
