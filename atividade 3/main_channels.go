@@ -67,7 +67,7 @@ func writeToFile(fileName string, ch <-chan string, wg *sync.WaitGroup) {
 
 func main() {
 	// testando diferentes gomaxprocs
-	procs := []int{1, 4, 6}
+	procs := []int{1, 2, 4, 6}
 	for _, i := range procs {
 		runtime.GOMAXPROCS(i)
 		fmt.Printf("Iniciando teste com GOMAXPROCS = %d\n", i)

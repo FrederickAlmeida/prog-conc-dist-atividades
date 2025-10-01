@@ -7,6 +7,7 @@ import (
 	"strings"
 	"sync"
 	"time"
+	"fmt"
 )
 
 func readFileRange(filePath string, startLine, endLine int, wg *sync.WaitGroup, wwg *sync.WaitGroup, errmu *sync.Mutex, warmu *sync.Mutex, infmu *sync.Mutex) {
@@ -48,32 +49,63 @@ func readFileRange(filePath string, startLine, endLine int, wg *sync.WaitGroup, 
 
 func writeToErrFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
 	defer wg.Done()
-	writeToFile("error.txt", content, mu)
-}
+	fileName := "error.txt"
 
-func writeToInfoFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
-	defer wg.Done()
-	writeToFile("info.txt", content, mu)
-}
-
-func writeToWarningFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
-	defer wg.Done()
-	writeToFile("warning.txt", content, mu)
-}
-
-func writeToFile(fileName, content string, mu *sync.Mutex) {
 	mu.Lock()
 	defer mu.Unlock()
 
 	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
+		fmt.Printf("Erro abrindo/criando arquivo %s: %v\n", fileName, err)
 		return
 	}
 	defer file.Close()
 
-	_, _ = file.WriteString(content + "\n")
+	_, err = file.WriteString(content + "\n")
+	if err != nil {
+		fmt.Printf("Erro escrevendo no arquivo: %v\n", err)
+	}
 }
 
+func writeToInfoFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
+	defer wg.Done()
+	fileName := "info.txt"
+
+	mu.Lock()
+	defer mu.Unlock()
+
+	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		fmt.Printf("Erro abrindo/criando arquivo %s: %v\n", fileName, err)
+		return
+	}
+	defer file.Close()
+
+	_, err = file.WriteString(content + "\n")
+	if err != nil {
+		fmt.Printf("Erro escrevendo no arquivo: %v\n", err)
+	}
+}
+
+func writeToWarningFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
+	defer wg.Done()
+	fileName := "warning.txt"
+
+	mu.Lock()
+	defer mu.Unlock()
+
+	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		fmt.Printf("Erro abrindo/criando arquivo %s: %v\n", fileName, err)
+		return
+	}
+	defer file.Close()
+
+	_, err = file.WriteString(content + "\n")
+	if err != nil {
+		fmt.Printf("Erro escrevendo no arquivo: %v\n", err)
+	}
+}
 func runOnce() time.Duration {
 	start := time.Now()
 
@@ -111,14 +143,13 @@ func runOnce() time.Duration {
 
 func main() {
 	// Testar com GOMAXPROCS = 1, 2, 6
-	for _, procs := range []int{1, 2, 6} {
+	for _, procs := range []int{1, 2, 4, 6} {
 		runtime.GOMAXPROCS(procs)
 		var total time.Duration
 
 		for i := 1; i <= 30; i++ {
 			duration := runOnce()
 			total += duration
-			println("Execução", i, "concluída em", duration.Milliseconds(), "ms")
 		}
 
 		println("Tempo médio com GOMAXPROCS =", procs, ":", (total.Milliseconds() / 30), "ms")
