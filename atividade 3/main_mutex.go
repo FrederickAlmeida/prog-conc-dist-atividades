@@ -109,10 +109,6 @@ func writeToWarningFile(content string, mu *sync.Mutex, wg *sync.WaitGroup) {
 func runOnce() time.Duration {
 	start := time.Now()
 
-	_, _ = os.Create("error.txt")
-	_, _ = os.Create("warning.txt")
-	_, _ = os.Create("info.txt")
-
 	numLines := 1000
 	linesPerThread := numLines / 4
 
